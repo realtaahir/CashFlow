@@ -1,6 +1,5 @@
 # CashFlow      **UNIVERSITY DSA PROJECT**
 
-# Cash Flow Management Application
 
 
 ## Overview
